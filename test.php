@@ -3,4 +3,6 @@
     print_r($_SERVER);
     echo "我要撤销修改";
     echo "我要撤销修改";
+    echo "我要撤销修改";
+    echo "我要撤销修改";
 ?>
