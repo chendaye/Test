@@ -1,4 +1,4 @@
 <?php
     print_r('start git');
-    print_r('branch');
+    print_r('branch--confilt');
 ?>
